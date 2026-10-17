@@ -1,0 +1,15 @@
+HD LAUNCHER - SETUP v1.6.0
+=========================
+
+QUER BAIXAR O SETUP.EXE SEM INSTALAR PYTHON NO PC?
+
+1) Crie um repositorio Windows no GitHub.
+2) Publique os ARQUIVOS desta pasta HD-Launcher (inclusive a pasta .github).
+3) No GitHub: Actions > Gerar Setup EXE do HD Launcher > Run workflow.
+4) Depois do check verde: baixe Artifacts > HDLauncher-Setup-v1.6.0.
+5) Extraia o ZIP baixado do GitHub e execute HDLauncher-Setup-v1.6.0.exe.
+
+LEIA O README.md para o tutorial completo.
+
+Este arquivo ZIP contem o CODIGO-FONTE e a automacao, NAO um Setup.exe
+ja compilado. O computador de quem instala o jogo NAO precisa de Python.
